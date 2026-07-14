@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <AppInstaller
+      xmlns="http://schemas.microsoft.com/appx/appinstaller/2018"
+      Version="0.62.0.0"
+      Uri="https://xmcl.blob.core.windows.net/releases/xmcl.appinstaller" >
+      <MainPackage
+          Name="XMCL"
+          Publisher="CN=SignPath Foundation, O=SignPath Foundation, L=Lewes, S=Delaware, C=US"
+          Version="0.62.0.1390"
+          ProcessorArchitecture="x64"
+          Uri="https://xmcl-core-api.azurewebsites.net/api/appx?version=0.62.0" />
+      <UpdateSettings>
+      </UpdateSettings>
+  </AppInstaller>                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
